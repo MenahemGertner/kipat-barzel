@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Full Stack"
+		},
+		{
+			"path": "../../../Desktop/מסדי נתונים"
+		},
+		{
+			"path": "../../../hello-world/src/app"
+		},
+		{
+			"path": "../../../hello-world/src/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Full Stack"
+	}
+}
